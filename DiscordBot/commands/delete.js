@@ -34,7 +34,7 @@ module.exports = {
             await friends.deleteOne();
 
             const embed = new MessageEmbed()
-                .setColor("#a600ff") // Purple
+                .setColor("#ffffff") // White
                 .setTitle("Account Deleted!")
                 .setDescription("Your account has been successfully deleted!")
                 .setTimestamp();
