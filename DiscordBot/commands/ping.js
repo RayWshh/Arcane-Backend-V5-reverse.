@@ -9,9 +9,9 @@ module.exports = {
   execute: async (interaction) => {
     try {
       const embed = new MessageEmbed()
-        .setColor("#a600ff") // Purple
+        .setColor("#ffffff") // White
         .setTitle("Pong!")
-        .setDescription("The Backend Is Online!")
+        .setDescription("Reverse Manager is up!")
         .setTimestamp();
 
       await interaction.reply({ embeds: [embed] });
