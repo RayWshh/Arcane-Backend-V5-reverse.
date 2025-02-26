@@ -1,5 +1,5 @@
 # Reverse
-ArcaneV5 is created to emulate the full Epic Games backend and its microservices with fortnite as the main focus!
+Reverse is created to emulate the full Epic Games backend and its microservices with fortnite as the main focus!
 ---
 ## [Changelog!](https://github.com/endles¼salpacaYT/Arcane-Backend-V5/blob/main/changelog.md)
 ---
