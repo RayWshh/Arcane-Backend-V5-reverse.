@@ -108,7 +108,7 @@ module.exports = {
             await friends.save();
 
             const embed = new MessageEmbed()
-                .setColor("#a600ff") // Purple
+                .setColor("#ffffff") // White
                 .setTitle("Success!")
                 .setDescription(`Account created with username: ${username}!`)
                 .setTimestamp();
